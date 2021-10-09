@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Maze.Plugins", "3D Maze.Plugins.csproj", "{CD5931AE-7E25-2CDC-8394-D77E3C871BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Maze", "3D Maze.csproj", "{82816FEE-467B-CCA8-0817-B27A6AFD9289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Maze.Editor.Plugins", "3D Maze.Editor.Plugins.csproj", "{9F9F1D7E-DAC2-8001-6C42-EF63E13BA7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5931AE-7E25-2CDC-8394-D77E3C871BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5931AE-7E25-2CDC-8394-D77E3C871BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5931AE-7E25-2CDC-8394-D77E3C871BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5931AE-7E25-2CDC-8394-D77E3C871BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82816FEE-467B-CCA8-0817-B27A6AFD9289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82816FEE-467B-CCA8-0817-B27A6AFD9289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82816FEE-467B-CCA8-0817-B27A6AFD9289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82816FEE-467B-CCA8-0817-B27A6AFD9289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9F1D7E-DAC2-8001-6C42-EF63E13BA7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9F1D7E-DAC2-8001-6C42-EF63E13BA7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9F1D7E-DAC2-8001-6C42-EF63E13BA7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9F1D7E-DAC2-8001-6C42-EF63E13BA7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
